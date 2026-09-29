@@ -1,0 +1,6 @@
+{
+  "name": "Student Learner",
+  "description": "College AI Study Planner, daily timetable generator, exam countdown tracker, assignment scaffolding mentor, and study coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
